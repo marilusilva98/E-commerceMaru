@@ -12,31 +12,31 @@ app.get('/api/products', (req, res) => {
   const products = [
     { 
       id: 1, 
-      name: 'Cámara web HD 1080P', 
-      oldPrice: 37500, 
-      price: 35000, 
-      urlImg: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmYckEMeFKNyPfp2TJu1Fup4HIBjibtiCqO3I6nbhWev7LIyxevl52_-aZwkaoJmuOVxzl0GTcx9nqq5G4T3ArSy99H_T5&usqp=CAE'
+      name: 'Set de Collares', 
+      oldPrice: 20000, 
+      price: 17500, 
+      urlImg: 'https://i.pinimg.com/564x/89/be/c4/89bec43a65ad988a435fe5870f2b2784.jpg'
     },
     {
       id: 2, 
-      name: 'Campera Keyboard programador',  
-      oldPrice: 11500, 
-      price: 11200, 
-      urlImg: 'https://purodiseno.lat/wp-content/uploads/2023/04/CAMPERA-TECLADO-2-821x1024.jpg' 
+      name: 'Set de Anillos',  
+      oldPrice: 40000, 
+      price: 37500, 
+      urlImg: 'https://i.pinimg.com/736x/42/34/0a/42340ab87efc420ae864cd345cf360e4.jpg' 
     },
     { 
       id: 3, 
-      name: 'Disco-solido interno kingston sata-960g',  
+      name: 'Argollas Acero Dorado',  
       oldPrice: 18500, 
       price: 18000, 
-      urlImg: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwqHX1fVP2DUn6mEw05ukydZ6KOgkf0w3N3ZEHHJnDUW7WtxSEzdOZ73YxCn-FBC5kYxGeF4wy9zakpXVDOXbjQouNAmyH1LTbzkyuK2t0u9We1eAqfkFFDw&usqp=CAE' 
+      urlImg: 'https://i.pinimg.com/736x/45/e7/e3/45e7e314426f397a011e571cdd596902.jpg' 
     },
     { 
       id: 3, 
-      name: 'Taza Código De Programacion',  
+      name: 'Collar de perlas',  
       oldPrice: 3500, 
       price: 2200, 
-      urlImg: 'https://http2.mlstatic.com/D_NQ_NP_786656-MLA46832914211_072021-O.webp' 
+      urlImg: 'https://i.pinimg.com/736x/b5/cd/6a/b5cd6aaf0c573a4575efd0421acb4166.jpg' 
     },
     
     
